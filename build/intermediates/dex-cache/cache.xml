@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_398bb60455326d9894c5429f26c32c00dc364d98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcdf4fa293487cf3b3478290fcc98d3112a7792c">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33ce14764793ef7e24a43b2bf8231d7854214abd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cyan/AndroidStudioProjects/PopCola/app/libs/PGSDK_V2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac7573d38f31559f8f027eb698769d3ebad40b64">
+        <dex dex="/home/cyan/AndroidStudioProjects/PopCola/app/build/intermediates/transforms/dex/debug/folders/1000/2/PGSDK_V2.0_374cd6880249e431ba1151ad53c62683b9a3eb4c/classes.dex" />
+    </item>
+
+</items>
